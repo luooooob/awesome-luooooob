@@ -1,4 +1,4 @@
-# luob/awesome-luob  [![build](https://github.com/luob/awesome-luob/workflows/build/badge.svg)](https://github.com/luob/awesome-luob/actions)
+# Awesome Luob  [![build](https://github.com/luob/awesome-luob/workflows/build/badge.svg)](https://github.com/luob/awesome-luob/actions)
 
 A collection of awesome things.
 
@@ -243,6 +243,7 @@ A collection of awesome things.
 - [songquanpeng/battle-city](https://github.com/songquanpeng/battle-city) - 基于 TypeScript 的《坦克大战》的非标准实现。Yet another Battle City implemented in TypeScript.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [talentlessguy/tinyhttp](https://github.com/talentlessguy/tinyhttp) - ⚡ 0-legacy, tiny & fast web framework as a replacement of Express
+- [tancredi/fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
