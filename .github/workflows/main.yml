@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: luob/create-my-awesome@v1.0.0-alpha
+      - uses: luob/create-my-awesome@v1.0.0-alpha.2
       # Commit the change
       # See https://github.com/EndBug/add-and-commit
       - uses: EndBug/add-and-commit@v5
