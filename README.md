@@ -229,6 +229,7 @@ A collection of awesome things.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gcanti/hyper-ts](https://github.com/gcanti/hyper-ts) - Type safe middleware architecture for HTTP servers
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
+- [luob/create-my-awesome](https://github.com/luob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mecoepcoo/easy-markdown](https://github.com/mecoepcoo/easy-markdown) - 一个简单的markdown解析器，能够将markdown解析为html
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [paljs/ui](https://github.com/paljs/ui) - React Styled Components with bootstrap grid system
